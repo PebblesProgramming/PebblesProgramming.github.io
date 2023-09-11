@@ -98084,7 +98084,7 @@ m=A.ec(n.a.a,null)
 l=q.f
 k=l.a.a
 j=q.r
-i=A.ar(["name",o,"capacity",m,"schoolID",k,"licenseExpirationDate",A.aGJ(j.a.a),"numOfMembers",0],t.N,t.z)
+i=A.ar(["availableScenarios",[],"name",o,"capacity",m,"schoolID",k,"licenseExpirationDate",A.aGJ(j.a.a),"numOfMembers",0],t.N,t.z)
 h=q.w.dK(0,k)
 g=A.If(i)
 g.toString
@@ -98565,7 +98565,7 @@ if(b.a===B.cc)return A.fp(p,p,A.ds(A.mM(),p,p),p,p)
 s=b.b
 r=s!=null
 if(r&&r){s=A.qq(s.b.d_(0,"availableScenarios"),s.a)
-if(s==null)s=[]
+if(s==null)s=["Cardiology"]
 q=A.i_(s,!0,t.N)
 s=this.a
 r=s.c
