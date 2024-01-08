@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Single Page Apps for GitHub Pages</title>
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
       // Single Page Apps for GitHub Pages
       // MIT License
       // https://github.com/rafgraph/spa-github-pages
@@ -33,7 +33,17 @@
         l.hash
       );
 
-    </script>
+    </script> -->
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+      // Als dit een 404-pagina is, probeer dan de URL te herstellen en te navigeren naar de juiste route via client-side routing
+      if (window.location.pathname !== '/') {
+        window.history.replaceState(null, null, window.location.pathname);
+      }
+    });
+  </script>
+  
   </head>
   <body>
   </body>
