@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+      // Als dit een 404-pagina is, probeer dan de URL te herstellen en te navigeren naar de juiste route via client-side routing
+      if (window.location.pathname !== '/') {
+        window.history.replaceState(null, null, window.location.pathname);
+      }
+    });
+  </script>
+  
