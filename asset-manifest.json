@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.2731df7e.css",
-    "main.js": "/static/js/main.bc10cbfa.js",
+    "main.js": "/static/js/main.250ae6f9.js",
     "static/js/453.8f3cb8fc.chunk.js": "/static/js/453.8f3cb8fc.chunk.js",
     "static/media/Courseta_Logo.png": "/static/media/Courseta_Logo.5483926c7849651443f7.png",
     "static/media/2.png": "/static/media/2.607c102fb0329b68bf47.png",
     "static/media/22.png": "/static/media/22.91db70ac48abf695d34f.png",
     "index.html": "/index.html",
     "main.2731df7e.css.map": "/static/css/main.2731df7e.css.map",
-    "main.bc10cbfa.js.map": "/static/js/main.bc10cbfa.js.map",
+    "main.250ae6f9.js.map": "/static/js/main.250ae6f9.js.map",
     "453.8f3cb8fc.chunk.js.map": "/static/js/453.8f3cb8fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2731df7e.css",
-    "static/js/main.bc10cbfa.js"
+    "static/js/main.250ae6f9.js"
   ]
 }
