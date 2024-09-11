@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.76b33896.css",
-    "main.js": "/static/js/main.d2eeba48.js",
-    "static/js/453.e3a7f1a9.chunk.js": "/static/js/453.e3a7f1a9.chunk.js",
+    "main.css": "/static/css/main.9bba8523.css",
+    "main.js": "/static/js/main.a047292e.js",
+    "static/js/453.8f3cb8fc.chunk.js": "/static/js/453.8f3cb8fc.chunk.js",
     "static/media/Courseta_Logo.png": "/static/media/Courseta_Logo.5483926c7849651443f7.png",
     "static/media/2.png": "/static/media/2.607c102fb0329b68bf47.png",
     "static/media/22.png": "/static/media/22.91db70ac48abf695d34f.png",
+    "static/media/library.svg": "/static/media/library.4581eafdd275d348fa4ecc7b8426eb48.svg",
+    "static/media/grades.svg": "/static/media/grades.93e16a10019b4370d1b324e0b816500e.svg",
+    "static/media/users.svg": "/static/media/users.31de54759c1f587406cf409724550e79.svg",
+    "static/media/calendar.svg": "/static/media/calendar.c44d882327a555c760ba5e03dd0743d0.svg",
     "index.html": "/index.html",
-    "main.76b33896.css.map": "/static/css/main.76b33896.css.map",
-    "main.d2eeba48.js.map": "/static/js/main.d2eeba48.js.map",
-    "453.e3a7f1a9.chunk.js.map": "/static/js/453.e3a7f1a9.chunk.js.map"
+    "static/media/courses.svg": "/static/media/courses.0f3dcb6eb8b86780db2bf9cb10e108bc.svg",
+    "static/media/logout.svg": "/static/media/logout.6fd6af2f2b118345631210448097f99d.svg",
+    "static/media/question_mark.svg": "/static/media/question_mark.84be48c622e71dce63e06a27cfaedc80.svg",
+    "main.9bba8523.css.map": "/static/css/main.9bba8523.css.map",
+    "main.a047292e.js.map": "/static/js/main.a047292e.js.map",
+    "453.8f3cb8fc.chunk.js.map": "/static/js/453.8f3cb8fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76b33896.css",
-    "static/js/main.d2eeba48.js"
+    "static/css/main.9bba8523.css",
+    "static/js/main.a047292e.js"
   ]
 }
