@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.d7fad024.css",
-    "main.js": "/static/js/main.69e7419f.js",
+    "main.js": "/static/js/main.26da2d5a.js",
     "static/js/453.8f3cb8fc.chunk.js": "/static/js/453.8f3cb8fc.chunk.js",
     "static/media/Courseta_Logo.png": "/static/media/Courseta_Logo.5483926c7849651443f7.png",
     "static/media/2.png": "/static/media/2.607c102fb0329b68bf47.png",
     "static/media/22.png": "/static/media/22.91db70ac48abf695d34f.png",
-    "static/media/library.svg": "/static/media/library.4581eafdd275d348fa4ecc7b8426eb48.svg",
-    "static/media/grades.svg": "/static/media/grades.93e16a10019b4370d1b324e0b816500e.svg",
-    "static/media/users.svg": "/static/media/users.31de54759c1f587406cf409724550e79.svg",
-    "static/media/calendar.svg": "/static/media/calendar.c44d882327a555c760ba5e03dd0743d0.svg",
+    "static/media/library.svg": "/static/media/library.9e0f35315881f66822c83fe1bad46643.svg",
+    "static/media/grades.svg": "/static/media/grades.489b182e40b98645684f1d6d0d25b189.svg",
+    "static/media/users.svg": "/static/media/users.6d7ae49a22e26c171df17bba05814653.svg",
+    "static/media/calendar.svg": "/static/media/calendar.b9b45e67f9f2d54ec5063c93e436b0c6.svg",
     "index.html": "/index.html",
-    "static/media/courses.svg": "/static/media/courses.0f3dcb6eb8b86780db2bf9cb10e108bc.svg",
-    "static/media/logout.svg": "/static/media/logout.6fd6af2f2b118345631210448097f99d.svg",
+    "static/media/courses.svg": "/static/media/courses.e15e67c5c410c6e6588d716a3f008c18.svg",
+    "static/media/logout.svg": "/static/media/logout.99eb66f5a80074e79d1bfa7a8d42a332.svg",
     "static/media/question_mark.svg": "/static/media/question_mark.84be48c622e71dce63e06a27cfaedc80.svg",
     "main.d7fad024.css.map": "/static/css/main.d7fad024.css.map",
-    "main.69e7419f.js.map": "/static/js/main.69e7419f.js.map",
+    "main.26da2d5a.js.map": "/static/js/main.26da2d5a.js.map",
     "453.8f3cb8fc.chunk.js.map": "/static/js/453.8f3cb8fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7fad024.css",
-    "static/js/main.69e7419f.js"
+    "static/js/main.26da2d5a.js"
   ]
 }
