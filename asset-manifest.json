@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98285b02.css",
-    "main.js": "/static/js/main.fd0efd5f.js",
+    "main.css": "/static/css/main.a6b82c34.css",
+    "main.js": "/static/js/main.5966f386.js",
     "static/js/453.efa21afa.chunk.js": "/static/js/453.efa21afa.chunk.js",
     "static/media/39.png": "/static/media/39.85dc70f45073fd279799.png",
     "static/media/19.png": "/static/media/19.3b35c98e43b4a5f3edc4.png",
@@ -53,12 +53,12 @@
     "static/media/Courseta_Logo.png": "/static/media/Courseta_Logo.5483926c7849651443f7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.98285b02.css.map": "/static/css/main.98285b02.css.map",
-    "main.fd0efd5f.js.map": "/static/js/main.fd0efd5f.js.map",
+    "main.a6b82c34.css.map": "/static/css/main.a6b82c34.css.map",
+    "main.5966f386.js.map": "/static/js/main.5966f386.js.map",
     "453.efa21afa.chunk.js.map": "/static/js/453.efa21afa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98285b02.css",
-    "static/js/main.fd0efd5f.js"
+    "static/css/main.a6b82c34.css",
+    "static/js/main.5966f386.js"
   ]
 }
