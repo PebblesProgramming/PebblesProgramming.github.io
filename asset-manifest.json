@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.0423908f.css",
-    "main.js": "/static/js/main.53aaef75.js",
+    "main.css": "/static/css/main.6ea6ea63.css",
+    "main.js": "/static/js/main.675ae44f.js",
     "static/js/213.2ce74faa.chunk.js": "/static/js/213.2ce74faa.chunk.js",
-    "static/js/667.74375275.chunk.js": "/static/js/667.74375275.chunk.js",
+    "static/js/667.90ee8a85.chunk.js": "/static/js/667.90ee8a85.chunk.js",
     "static/js/453.efa21afa.chunk.js": "/static/js/453.efa21afa.chunk.js",
     "static/media/39.png": "/static/media/39.85dc70f45073fd279799.png",
     "static/media/19.png": "/static/media/19.3b35c98e43b4a5f3edc4.png",
@@ -55,14 +55,14 @@
     "static/media/Courseta_Logo.png": "/static/media/Courseta_Logo.5483926c7849651443f7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.0423908f.css.map": "/static/css/main.0423908f.css.map",
-    "main.53aaef75.js.map": "/static/js/main.53aaef75.js.map",
+    "main.6ea6ea63.css.map": "/static/css/main.6ea6ea63.css.map",
+    "main.675ae44f.js.map": "/static/js/main.675ae44f.js.map",
     "213.2ce74faa.chunk.js.map": "/static/js/213.2ce74faa.chunk.js.map",
-    "667.74375275.chunk.js.map": "/static/js/667.74375275.chunk.js.map",
+    "667.90ee8a85.chunk.js.map": "/static/js/667.90ee8a85.chunk.js.map",
     "453.efa21afa.chunk.js.map": "/static/js/453.efa21afa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0423908f.css",
-    "static/js/main.53aaef75.js"
+    "static/css/main.6ea6ea63.css",
+    "static/js/main.675ae44f.js"
   ]
 }
